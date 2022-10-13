@@ -56,5 +56,4 @@ fun main(args: Array<String>)
     {
         obj.Calculate(multiply)
     }
-
 }
