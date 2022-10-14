@@ -44,7 +44,7 @@ class Converter
         var value = readLine()!!
 
         if(value == "choose") {main()} //selecting the currency again
-        else if (value == "quit") {loop = false} //stoping the loop, quiting from application
+        else if (value == "quit") {loop = false} //stopping the loop, quiting from application
         else
         {
             var value = value.toDouble()
